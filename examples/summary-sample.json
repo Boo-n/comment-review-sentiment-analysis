@@ -1,0 +1,16 @@
+{
+    "analyzedCount": 15,
+    "sentimentDistribution": {
+        "positive": 8,
+        "neutral": 3,
+        "negative": 4
+    },
+    "complaintDistribution": {
+        "possible": 3,
+        "not_detected": 3,
+        "not_evaluated": 9
+    },
+    "netSentiment": 0.26666666666666666,
+    "topAspects": [],
+    "volumeByPeriod": {}
+}

@@ -1,0 +1,25 @@
+{
+    "texts": [
+        { "id": "en-1", "text": "Love the new serum, my skin feels amazing after two weeks." },
+        { "id": "en-2", "text": "Delivery took three weeks and nobody answered my emails." },
+        { "id": "en-3", "text": "Arrived today, I haven't tried it yet." },
+        { "id": "fr-1", "text": "Livraison rapide et produit conforme, je recommande !" },
+        { "id": "fr-2", "text": "Le flacon est arrivé cassé, très déçue." },
+        { "id": "de-1", "text": "Super Qualität, ich bestelle auf jeden Fall wieder." },
+        { "id": "de-2", "text": "Die Creme riecht gut, aber die Verpackung ist viel zu groß." },
+        { "id": "es-1", "text": "Me encanta la marca, pero la app no carga desde ayer." },
+        { "id": "es-2", "text": "Llegó antes de lo previsto y muy bien embalado." },
+        { "id": "it-1", "text": "Non riesco ad accedere al mio account dopo l'aggiornamento." },
+        { "id": "pt-1", "text": "O aplicativo trava toda vez que tento pagar." },
+        { "id": "pt-2", "text": "Produto ótimo, chegou bem embalado." },
+        { "id": "en-4", "text": "Love the new serum, my skin feels amazing after two weeks." },
+        {
+            "id": "spam-1",
+            "text": "Win a free phone today https://example.com/a https://example.com/b https://example.com/c"
+        },
+        { "id": "short-1", "text": "Top!" }
+    ],
+    "mode": "analyze",
+    "includeText": true,
+    "includeSourceIdentifiers": true
+}

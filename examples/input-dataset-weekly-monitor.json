@@ -1,0 +1,8 @@
+{
+    "datasetId": "YOUR_DATASET_ID",
+    "textField": "text",
+    "idField": "id",
+    "mode": "monitor",
+    "stateKey": "brand-weekly",
+    "maxItems": 1000
+}
